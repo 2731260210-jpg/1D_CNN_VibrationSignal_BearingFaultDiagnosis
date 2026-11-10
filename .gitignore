@@ -1,0 +1,27 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local datasets and archives
+CWRU_DATASETS_ABCD-main/
+repo.zip
+*.zip
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
